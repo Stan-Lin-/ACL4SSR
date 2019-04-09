@@ -11,12 +11,10 @@
 
 [bypass_all]
 ### 默认直连 自己可以自定义
-www.gstatic.com
-fonts.gstatic.com
 
 #**********************************************************************
 [proxy_list]
-(^|\.)gstatic\.com$
+
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
@@ -2243,6 +2241,7 @@ fonts.gstatic.com
 (^|\.)groups\.google\.cn$
 (^|\.)gs-discuss\.com$
 (^|\.)gsp\.target\.com$
+(^|\.)gstatic\.com$
 (^|\.)gtricks\.com$
 (^|\.)gts-vpn\.com$
 (^|\.)gu-chu-sum\.org$
@@ -4989,6 +4988,7 @@ fonts.gstatic.com
 (^|\.)uygur\.fc2web\.com$
 (^|\.)uygur\.org$
 (^|\.)uymaarip\.com$
+(^|\.)v2ex\.com$
 (^|\.)v2ray\.com$
 (^|\.)van001\.com$
 (^|\.)van698\.com$
