@@ -11,10 +11,12 @@
 
 [bypass_all]
 ### 默认直连 自己可以自定义
+www.gstatic.com
+fonts.gstatic.com
 
 #**********************************************************************
 [proxy_list]
-
+(^|\.)gstatic\.com$
 # MyList
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
